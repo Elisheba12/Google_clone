@@ -740,6 +740,77 @@ hr {
   margin-top: 0px;
 }
 
+.divide .normbody .details {
+  width: 660px;
+  height: 24px;
+  border-bottom: 1px solid #bdc1c656;
+  margin-top: 30px;
+  color: #bdc1c6;
+  font-size: 22px;
+  padding: 6px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+}
+
+.divide .normbody .meta1 {
+  /* border: 1px solid white; */
+  width: 600px;
+  height: 117px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.divide .normbody .dropdown .case summary {
+  display: flex;
+  justify-content: space-between;
+}
+
+.divide .normbody .dropdown .case summary img {
+  height: 14px;
+  width: 14px;
+}
+
+.divide .normbody .meta1 .meta1flex {
+  display: flex;
+  gap: 10px;
+  margin-top: 45px;
+}
+.divide .normbody .meta1 .meta1flex .logocir {
+  width: 26px;
+  height: 25px;
+  background-color: white;
+  border-radius: 50px;
+  position: relative;
+  margin-top: 3px;
+}
+.divide .normbody .meta1 .meta1flex .logocir img {
+  position: absolute;
+  left: 3.5px;
+  top: 3px;
+}
+.divide .normbody .meta1 .meta1flex .threedot {
+  /* border: 1px solid white; */
+  margin-top: 15px;
+}
+.divide .normbody .meta1 .link .text {
+  margin-top: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(156, 70, 236);
+}
+.divide .normbody .meta1 .link:hover {
+  text-decoration: underline;
+  color: blueviolet;
+}
+.divide .normbody .meta1 .linktext {
+  color: #bdc1c6;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  margin-top: -15px;
+}
+
 /* About side */
 
 .divide .normside {
