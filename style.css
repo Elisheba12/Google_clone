@@ -810,6 +810,9 @@ hr {
   line-height: 1.5;
   margin-top: -15px;
 }
+.divide .normbody .psg a:hover {
+  text-decoration: underline;
+}
 
 /* About side */
 
